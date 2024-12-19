@@ -1,4 +1,4 @@
-class Solution {
+class InsertionSort {
     // Time Complexity : O(n^2)
     // Space Complexity: O(1)
     public int[] insertionSort(int[] nums) {

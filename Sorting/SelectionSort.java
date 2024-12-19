@@ -1,4 +1,4 @@
-class Solution {
+class SelectionSort {
     // Time Complexity : O(n^2)
     // Space Complexity: O(1)
     public int[] selectionSort(int[] nums) {
