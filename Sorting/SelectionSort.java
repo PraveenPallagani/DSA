@@ -1,4 +1,6 @@
 class Solution {
+    // Time Complexity : O(n^2)
+    // Space Complexity: O(1)
     public int[] selectionSort(int[] nums) {
         if(nums == null || nums.length <= 1) {
             // base condition
