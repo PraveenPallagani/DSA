@@ -1,4 +1,6 @@
 class RightRotateArrayByKPlaces {
+    // Time Complexity: O(n)
+    // Space Complexity: O(1)
     public void rotateArray(int[] nums, int k) {
         int n = nums.length;
         k = k % n;
